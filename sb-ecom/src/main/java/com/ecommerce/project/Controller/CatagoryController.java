@@ -1,6 +1,6 @@
-package com.ecommerce.project.Controller;
+package com.ecommerce.project.controller;
 
-import com.ecommerce.project.Services.CategoryService;
+import com.ecommerce.project.services.CategoryService;
 import com.ecommerce.project.model.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
